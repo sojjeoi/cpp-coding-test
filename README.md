@@ -41,3 +41,7 @@ Level1/   (추후 레벨업 시 추가)
 | [외계어 사전](Level0/외계어_사전.md) | `string::find` |
 | [구슬을 나누는 경우의 수](Level0/구슬을_나누는_경우의_수.md) | – (조합 계산) |
 | [배열 회전시키기](Level0/배열_회전시키기.md) | `rotate` |
+| [모음 제거하기](Level0/모음_제거하기.md) | `remove_if`, `erase` |
+| [문자열 정렬하기](Level0/문자열_정렬하기.md) | `string::find`, `sort` |
+| [컨트롤 제트](Level0/컨트롤_제트.md) | `stringstream`, `stoi` |
+| [배열 원소의 길이](Level0/배열_원소의_길이.md) | `string::length` |
