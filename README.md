@@ -55,3 +55,9 @@ Level1/   (추후 레벨업 시 추가)
 | [대소문자 바꿔서 출력하기](Level0/대소문자_바꿔서_출력하기.md) | `toupper`, `tolower` |
 | [특수 문자 출력하기](Level0/특수_문자_출력하기.md) | – (이스케이프 시퀀스) |
 | [문자열 겹쳐쓰기](Level0/문자열_겹쳐쓰기.md) | `string::replace` |
+| [가장 큰 수 찾기](Level0/가장_큰_수_찾기.md) | – |
+| [문자열 계산하기](Level0/문자열_계산하기.md) | `stringstream` |
+| [숫자 찾기](Level0/숫자_찾기.md) | `to_string`, `string::find` |
+| [자릿수 더하기](Level0/자릿수_더하기.md) | `to_string` |
+| [OX퀴즈](Level0/OX퀴즈.md) | `stringstream`, `push_back` |
+| [문자열 곱하기](Level0/문자열_곱하기.md) | – |
