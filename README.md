@@ -45,3 +45,13 @@ Level1/   (추후 레벨업 시 추가)
 | [문자열 정렬하기](Level0/문자열_정렬하기.md) | `string::find`, `sort` |
 | [컨트롤 제트](Level0/컨트롤_제트.md) | `stringstream`, `stoi` |
 | [배열 원소의 길이](Level0/배열_원소의_길이.md) | `string::length` |
+| [가장 가까운 수](Level0/가장_가까운_수.md) | `sort`, `abs` |
+| [대소문자 바꾸기](Level0/대소문자_바꾸기.md) | `islower`, `isupper`, `toupper`, `tolower` |
+| [영어가 싫어요](Level0/영어가_싫어요.md) | `map`, `stoll` |
+| [인덱스 바꾸기](Level0/인덱스_바꾸기.md) | `swap` |
+| [한번만 등장한 문자](Level0/한번만_등장한_문자.md) | `count`, `sort` |
+| [약수 구하기](Level0/약수_구하기.md) | – |
+| [a와 b 출력하기](Level0/a와_b_출력하기.md) | – |
+| [대소문자 바꿔서 출력하기](Level0/대소문자_바꿔서_출력하기.md) | `toupper`, `tolower` |
+| [특수 문자 출력하기](Level0/특수_문자_출력하기.md) | – (이스케이프 시퀀스) |
+| [문자열 겹쳐쓰기](Level0/문자열_겹쳐쓰기.md) | `string::replace` |
