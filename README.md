@@ -72,3 +72,8 @@ Level1/   (추후 레벨업 시 추가)
 | [분수의 덧셈](Level0/분수의_덧셈.md) | `gcd` |
 | [저주의 숫자 3](Level0/저주의_숫자_3.md) | `to_string`, `string::find` |
 | [문자열 안에 문자열](Level0/문자열_안에_문자열.md) | `string::substr` |
+| [제곱수 판별하기](Level0/제곱수_판별하기.md) | – |
+| [세균 증식](Level0/세균_증식.md) | `pow` |
+| [7의 개수](Level0/7의_개수.md) | `to_string`, `count` |
+| [머쓱이보다 키 큰 사람](Level0/머쓱이보다_키_큰_사람.md) | – |
+| [특이한 정렬](Level0/특이한_정렬.md) | `sort`, `abs` |
