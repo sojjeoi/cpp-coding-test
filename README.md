@@ -71,3 +71,4 @@ Level1/   (추후 레벨업 시 추가)
 | [문자열 곱하기](Level0/문자열_곱하기.md) | – |
 | [분수의 덧셈](Level0/분수의_덧셈.md) | `gcd` |
 | [저주의 숫자 3](Level0/저주의_숫자_3.md) | `to_string`, `string::find` |
+| [문자열 안에 문자열](Level0/문자열_안에_문자열.md) | `string::substr` |
