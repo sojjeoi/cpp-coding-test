@@ -91,3 +91,8 @@ Level1/   (추후 레벨업 시 추가)
 | [유한소수 판별하기](Level0/유한소수_판별하기.md) | `gcd` |
 | [평행](Level0/평행.md) | – (곱셈으로 기울기 비교) |
 | [등수 매기기](Level0/등수_매기기.md) | `sort`, `find` |
+| [문자열 밀기](Level0/문자열_밀기.md) | `string::erase` |
+| [옹알이 (1)](Level0/옹알이.md) | – |
+| [로그인 성공?](Level0/로그인_성공.md) | – |
+| [배열 만들기 2](Level0/배열_만들기_2.md) | `to_string`, `string::find` |
+| [이진수 더하기](Level0/이진수_더하기.md) | `stoi`, `reverse` |
