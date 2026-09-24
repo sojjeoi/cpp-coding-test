@@ -81,3 +81,10 @@ Level1/   (추후 레벨업 시 추가)
 | [직사각형 넓이 구하기](Level0/직사각형_넓이_구하기.md) | `sort`, `abs` |
 | [연속된 수의 합](Level0/연속된_수의_합.md) | – |
 | [겹치는 선분의 길이](Level0/겹치는_선분의_길이.md) | – |
+| [다항식 더하기](Level0/다항식_더하기.md) | `stringstream`, `stoi`, `string::back` |
+| [숨어있는 숫자의 덧셈 (2)](Level0/숨어있는_숫자의_덧셈2.md) | `isdigit`, `string::replace`, `stringstream`, `stoi` |
+| [안전지대](Level0/안전지대.md) | – |
+| [등차수열의 특정 항만 더하기](Level0/등차수열의_특정_항만_더하기.md) | – |
+| [주사위 게임 2](Level0/주사위_게임_2.md) | `pow` |
+| [수열과 구간 쿼리 3](Level0/수열과_구간쿼리_3.md) | `swap` |
+| [수열과 구간 쿼리 2](Level0/수열과_구간_쿼리_2.md) | – |
