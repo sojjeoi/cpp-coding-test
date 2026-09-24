@@ -96,3 +96,5 @@ Level1/   (추후 레벨업 시 추가)
 | [로그인 성공?](Level0/로그인_성공.md) | – |
 | [배열 만들기 2](Level0/배열_만들기_2.md) | `to_string`, `string::find` |
 | [이진수 더하기](Level0/이진수_더하기.md) | `stoi`, `reverse` |
+| [종이 자르기](Level0/종이_자르기.md) | – |
+| [다음에 올 숫자](Level0/다음에_올_숫자.md) | – |
