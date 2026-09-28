@@ -18,6 +18,7 @@ Level1/   (추후 레벨업 시 추가)
 |---|---|
 | [최대공약수 / 최소공배수](Notes/최대공약수_gcd.md) | `gcd`, `lcm` |
 | [정렬(sort) 사용법](Notes/정렬_sort.md) | `sort`, 커스텀 비교자 |
+| [해시(hash) 사용법](Notes/해시_hash.md) | `unordered_set`, `unordered_map` |
 
 ## Level 0 목록
 
